@@ -46,9 +46,8 @@ Is it extremely difficult for you to get your life in order? Do you often find y
 
 If you'd like to contribute to GYST, feel free to fork the repository and submit a pull request. We welcome any improvements or additional features!
 
-## Feedback
+## Disclaimer!
 
-We value your feedback! If you encounter any issues, have suggestions, or just want to say hi, please open an issue.
+**Note:** This app is currently a prototype and does not include a database for data storage. We are actively working on implementing database connectivity, and a more robust version with database functionality will be available soon.
 
 **Get Your Sh*t Together and seize the day! Download now!**
-
