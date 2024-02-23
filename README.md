@@ -1,6 +1,6 @@
 # Get Your Sh*t Together (GYST) - Android Mobile Productivity App
 
-Welcome to Get Your Sh*t Together (GYST) – a productivity app designed to help you organize your life and boost your productivity! This app was developed as part of the 7th-semester course in Human-Computer Interaction.
+Welcome to Get Your Sh*t Together (GYST) – a productivity app designed to help you organize your life and boost your productivity! This app was developed as part of the NTUA ECE 7th-semester course in Human-Computer Interaction.
 
 ## Overview
 
@@ -27,12 +27,12 @@ Is it extremely difficult for you to get your life in order? Do you often find y
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
-![Screenshot 3](/screenshots/screenshot3.png)
-![Screenshot 4](/screenshots/screenshot4.png)
-![Screenshot 5](/screenshots/screenshot5.png)
-![Screenshot 6](/screenshots/screenshot6.png)
+![Screenshot 1](/screenshots/screenshot1.jpg)
+![Screenshot 2](/screenshots/screenshot2.jpg)
+![Screenshot 3](/screenshots/screenshot3.jpg)
+![Screenshot 4](/screenshots/screenshot4.jpg)
+![Screenshot 5](/screenshots/screenshot5.jpg)
+![Screenshot 6](/screenshots/screenshot6.jpg)
 
 ## Contributing
 
