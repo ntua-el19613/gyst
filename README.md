@@ -27,12 +27,12 @@ Is it extremely difficult for you to get your life in order? Do you often find y
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.jpg)
-![Screenshot 2](/screenshots/screenshot2.jpg)
-![Screenshot 3](/screenshots/screenshot3.jpg)
-![Screenshot 4](/screenshots/screenshot4.jpg)
-![Screenshot 5](/screenshots/screenshot5.jpg)
-![Screenshot 6](/screenshots/screenshot6.jpg)
+<img src="/screenshots/screenshot1.jpg" alt="Screenshot 1" width="300" />
+<img src="/screenshots/screenshot2.jpg" alt="Screenshot 2" width="300" />
+<img src="/screenshots/screenshot3.jpg" alt="Screenshot 3" width="300" />
+<img src="/screenshots/screenshot4.jpg" alt="Screenshot 4" width="300" />
+<img src="/screenshots/screenshot5.jpg" alt="Screenshot 5" width="300" />
+<img src="/screenshots/screenshot6.jpg" alt="Screenshot 6" width="300" />
 
 ## Contributing
 
