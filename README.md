@@ -27,25 +27,19 @@ Is it extremely difficult for you to get your life in order? Do you often find y
 
 ## Screenshots
 
-<div style="display: flex; justify-content: center;">
-  <div style="display: flex; justify-content: space-between;">
-    <img src="/screenshots/screenshot1.jpg" alt="Screenshot 1" width="300" />
-    <img src="/screenshots/screenshot2.jpg" alt="Screenshot 2" width="300" />
-  </div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="/screenshots/screenshot1.jpg" alt="Screenshot 1" width="300" />
+  <img src="/screenshots/screenshot2.jpg" alt="Screenshot 2" width="300" />
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <div style="display: flex; justify-content: space-between;">
-    <img src="/screenshots/screenshot3.jpg" alt="Screenshot 3" width="300" />
-    <img src="/screenshots/screenshot4.jpg" alt="Screenshot 4" width="300" />
-  </div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="/screenshots/screenshot3.jpg" alt="Screenshot 3" width="300" />
+  <img src="/screenshots/screenshot4.jpg" alt="Screenshot 4" width="300" />
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <div style="display: flex; justify-content: space-between;">
-    <img src="/screenshots/screenshot5.jpg" alt="Screenshot 5" width="300" />
-    <img src="/screenshots/screenshot6.jpg" alt="Screenshot 6" width="300" />
-  </div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="/screenshots/screenshot5.jpg" alt="Screenshot 5" width="300" />
+  <img src="/screenshots/screenshot6.jpg" alt="Screenshot 6" width="300" />
 </div>
 
 ## Contributing
